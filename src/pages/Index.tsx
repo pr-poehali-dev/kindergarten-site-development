@@ -123,7 +123,7 @@ const Index = () => {
           <div className="relative animate-scale-in">
             <div className="aspect-square rounded-3xl overflow-hidden shadow-2xl">
               <img
-                src="https://cdn.poehali.dev/projects/59f6fdc6-3dcb-4335-b604-1f143fde7d44/files/62c8894b-7a36-4b57-a44e-8c2050b9bebc.jpg"
+                src="https://cdn.poehali.dev/projects/59f6fdc6-3dcb-4335-b604-1f143fde7d44/files/48440b5c-59e4-47c5-affb-5a5fdd719deb.jpg"
                 alt="Воспитатель"
                 className="w-full h-full object-cover"
               />
